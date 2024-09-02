@@ -1,5 +1,4 @@
-from vpython import *
-#Web VPython 3.2
+VPython 3.2
 
 #paredes 
 paredeEsquerda = box(pos=vector(-20, 0, 0), size=vector(0.5, 20, 0.5), color=color.red)
