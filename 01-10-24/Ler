@@ -1,1 +1,12 @@
+Criando Mapa com Tráfego 
+
+1- Baixar Sumo Simularion
+
+2- Open Street Map
+  - Exportar Localidade para Sumo
+  # netConvert --osm-files "C:\Users\laboratorio\Downloads\map.osm" -o "C:\Users\laboratorio\Downloads\map.net.xml"
+
+3- adicionar carros e motos na hora de aplicação do mapa
+
+4- Alterar configuração semáforo (tempo)
 
